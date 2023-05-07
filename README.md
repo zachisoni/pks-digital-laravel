@@ -1,3 +1,3 @@
 # pks-digital-laravel
 
-Repository for PKS Digital School Lavavel Class Task
+Repository for PKS Digital School Laravel Class Task
